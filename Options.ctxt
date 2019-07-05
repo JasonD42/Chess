@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=background\ width\ height
+comment0.target=Options(java.awt.Color,\ int,\ int)
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ run()
+comment4.params=delay
+comment4.target=void\ setTimer(int)
+comment5.params=isWhiteTurn
+comment5.target=void\ changeTurn(boolean)
+comment6.params=message
+comment6.target=void\ setError(java.lang.String)
+comment7.params=reset
+comment7.target=void\ justMoved(boolean)
+comment8.params=result\ isWhite
+comment8.target=void\ gameOver(java.lang.String,\ boolean)
+comment9.params=
+comment9.target=java.lang.String\ askForPromotion()
+numComments=10

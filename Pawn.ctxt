@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pawn()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pawn\r\n
+comment1.params=init\ fin\ check
+comment1.target=boolean\ isLegal(Square,\ Square,\ boolean)
+comment2.params=one\ two
+comment2.target=boolean\ isAttacking(Square,\ Square)
+comment3.params=one
+comment3.target=boolean\ isEnPassanting(Square)
+comment4.params=
+comment4.target=boolean\ justEnpassanted()
+comment5.params=
+comment5.target=void\ setEnpassanted()
+comment6.params=
+comment6.target=boolean\ justPromoted()
+comment7.params=
+comment7.target=void\ setPromoted()
+numComments=8

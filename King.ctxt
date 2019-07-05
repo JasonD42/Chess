@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=King()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ King\r\n
+comment1.params=init\ fin\ check
+comment1.target=boolean\ isLegal(Square,\ Square,\ boolean)
+comment2.params=
+comment2.target=boolean\ canCastle()
+comment3.params=
+comment3.target=boolean\ justCastled()
+comment4.params=
+comment4.target=void\ setCastled()
+comment5.params=fin\ isWhite
+comment5.target=void\ setKingPos(Square,\ boolean)
+comment6.params=
+comment6.target=Square\ getWhiteKing()
+comment7.params=
+comment7.target=Square\ getBlackKing()
+numComments=8

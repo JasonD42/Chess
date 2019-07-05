@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=col
+comment0.target=javax.swing.ImageIcon\ getImage(int)
+comment1.params=spot
+comment1.target=void\ moveTo(Square)
+comment2.params=
+comment2.target=void\ allMoves()
+comment3.params=i\ j
+comment3.target=java.lang.String\ getPieceType(int,\ int)
+comment4.params=init\ fin\ check
+comment4.target=boolean\ isLegal(Square,\ Square,\ boolean)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6

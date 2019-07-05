@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rook()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rook\r\n
+comment1.params=init\ fin\ check
+comment1.target=boolean\ isLegal(Square,\ Square,\ boolean)
+comment2.params=
+comment2.target=boolean\ hasMoved()
+numComments=3
